@@ -31,3 +31,8 @@ cd Football-Passing-Networks
 - Network diagrams for player and grid-based models.
 - Degree distribution comparisons.
 - Machine learning model performance metrics.
+
+
+## Acknowledgements
+- StatsBomb for providing the open football data.
+- IISER Bhopal, Department of EECS for support and resources.
