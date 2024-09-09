@@ -22,4 +22,12 @@ This project applies network science to football to predict match outcomes by an
 
 ## Installation
 1. Clone the repository:
-git clone https://github.com/<your-username>/<repository-name>.git
+git clone https://github.com/paithanemehul/Football-Passing-Networks.git
+2. Navigate to the project directory:
+cd Football-Passing-Networks
+3. Install required libraries
+
+## Visualizations
+- Network diagrams for player and grid-based models.
+- Degree distribution comparisons.
+- Machine learning model performance metrics.
