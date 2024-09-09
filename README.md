@@ -1,3 +1,25 @@
-# Football-Passing-Networks
+# Football Passing Networks Analysis
 
-This paper explores how network science can enhance football outcome predictions by using passing network properties and performance indicators. We've developed two models: one treating players as nodes, and another using grid sections of the football field as nodes. Our approach offers a new angle on team organization and performance, previously overlooked in traditional analyses, and provides graphic visualizations to compare team dynamics effectively.
+## Project Overview
+This project applies network science to football to predict match outcomes by analyzing passing networks. Using network summary measures, we developed two models: one considering players as nodes and another considering the football field divided into grids as nodes.
+
+## Team Members
+- Dinesh Adhithya - hdinesh18@iiserb.ac.in
+- Kiran D - kiran18@iiserb.ac.in
+- Rohit Taeja - rohit18@iiserb.ac.in
+- Mehul Paithane - mehul18@iiserb.ac.in
+
+## Key Features
+- **Passing Network Analysis:** Analyze the structure and dynamics of football passing using network science.
+- **Performance Indicators:** Evaluate team performance using centrality measures and network properties.
+- **Predictive Modeling:** Machine learning models to predict the probability of winning based on passing dynamics.
+
+## Technologies Used
+- Python
+- Jupyter Notebook
+- Statsbombpy for dataset handling
+- Machine Learning (SVM, Random Forest)
+
+## Installation
+1. Clone the repository:
+git clone https://github.com/<your-username>/<repository-name>.git
